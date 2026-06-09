@@ -1,2 +1,2 @@
 # Ecuacion-de-schrodiger
-Contiene las animaciones de las funciones de onda referidas en el informe Voluntario 3, junto con el codigo necesario para r
+Contiene las animaciones de las funciones de onda referidas en el informe Voluntario 3, junto con el codigo necesario para reproducir todas las figuras contenidas en el informe 
